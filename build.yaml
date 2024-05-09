@@ -17,3 +17,5 @@ include:
     shield: onekey
   - board: nrf52840_mdk_usb_dongle
     shield: onekey
+  - board: nrf52840_mdk_usb_dongle
+    shield: settings_reset
