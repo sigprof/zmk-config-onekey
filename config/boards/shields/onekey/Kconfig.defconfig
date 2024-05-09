@@ -4,6 +4,12 @@
 config ZMK_USB
 	default y
 
+config BT
+	default y
+
+config ZMK_BLE
+	default y
+
 if SHIELD_ONEKEY
 
 config ZMK_KEYBOARD_NAME
